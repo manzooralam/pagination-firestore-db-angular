@@ -48,4 +48,5 @@ Thumbs.db
 
 # Api keys
 environments/environment.prod.ts
-environment/environment.ts
+environments/environment.ts
+
