@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   firebase: {
-    api: 1235
+    api: 123
   }
 };
 
