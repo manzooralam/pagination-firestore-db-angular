@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "temporary-backup-project": {
+      "hosting": {
+        "Paginator": [
+          "temporary-backup-project"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "temporary-backup-project"
+  }
+}
